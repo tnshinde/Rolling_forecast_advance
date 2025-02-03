@@ -1,3 +1,7 @@
+_**Data Transparency**_
+
+All information and data used in this analysis have been modified to protect the confidentiality of the original project.
+
 **Rolling Forecast for IT Service Team & Seasonal Forecasting for Tylenol**
 
 🔍 **Project Overview**
